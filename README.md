@@ -3,3 +3,5 @@
     STL files of BioEX: Files designed in Autodesk Fusion 360. (Original files available upon request)
     +
     Modified Open Source Marlin firmware
+    +
+    BOM needed to fabricate the quad-extrusion head (QEH)
